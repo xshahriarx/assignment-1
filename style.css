@@ -3,7 +3,6 @@ body{
     margin: 0px;
     background-color: rgb(240, 233, 233);
 }
-
 .menu{
     text-decoration: none;
     font-size: 30px;
@@ -15,12 +14,10 @@ body{
     position: relative;
     top: 50px;
     left: 25%;
-    
 }
 h1{
     font-size: 75px;
     padding-top: 10%;
-    
 }
 p{
     font-size: 20px;
@@ -49,7 +46,6 @@ p{
 .half-width img{
     height: 90%;
     width: 80%;
-       
 }
 .link-button{
     text-decoration: none;
@@ -61,7 +57,6 @@ p{
     border-radius: 50px;
     position: relative;
     top: 50px;
-      
 }
 .section-banner{
     width: 100%;
@@ -70,8 +65,6 @@ p{
     background-size: cover;
     background-position: center;
     padding-top: 0px;
-    
-            
 }
 .about-me{
     width: 30%;
@@ -79,8 +72,6 @@ p{
     padding-left: 55%;
     text-align: justify;
     font-size: 35px;
-    
-    
 }
 .recipies{
     text-align: center;
@@ -97,7 +88,6 @@ p{
     border-radius: 35px;
     box-shadow: 5px 10px 20px  gray; 
     background-color: white;
-    
 }
 .third-section img{
     width: 100%;
@@ -112,7 +102,6 @@ p{
     margin-left: 8%;
     margin-top: 5%;
     width: 85%;
-    
 }
 .fourth-section-text{
     width: 30%;
