@@ -2,7 +2,21 @@ body{
     font-family: 'Noto Serif', serif;
     margin: 0px;
     background-color: rgb(240, 233, 233);
-    }
+}
+
+.menu{
+    text-decoration: none;
+    font-size: 30px;
+    padding: 20px 40px;
+    font-weight: 700;
+    background-image:linear-gradient(orange, tomato);
+    color: white;
+    border-radius: 50px;
+    position: relative;
+    top: 50px;
+    left: 25%;
+    
+}
 h1{
     font-size: 75px;
     padding-top: 10%;
@@ -23,6 +37,9 @@ p{
 .white-colour{
     color: white;
     font-size: 15px;
+}
+.black-colour{
+    color: black;
 }
 .half-width{
     width: 50%;
@@ -58,11 +75,11 @@ p{
 }
 .about-me{
     width: 30%;
-    height: 0%;
-    padding-top: 15%;
-    padding-left: 65%;
+    padding-top: 10%;
+    padding-left: 55%;
     text-align: justify;
-    font-size: 25px;
+    font-size: 35px;
+    
     
 }
 .recipies{
@@ -94,7 +111,7 @@ p{
     background-color: white;
     margin-left: 8%;
     margin-top: 5%;
-    width: 84%;
+    width: 85%;
     
 }
 .fourth-section-text{
